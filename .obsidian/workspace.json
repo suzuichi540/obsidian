@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "愛すべきポンコツな君たちへ〜12億円稼いだエンジニアの戦略大公開〜.md",
+                "file": "obsidian/00_inbox/docker-composeを使ったdockerの起動と停止.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "愛すべきポンコツな君たちへ〜12億円稼いだエンジニアの戦略大公開〜"
+              "title": "docker-composeを使ったdockerの起動と停止"
             }
           }
         ],
@@ -226,19 +226,27 @@
       "bases:Create new base": false
     }
   },
-  "active": "1f5f28aea8fae9af",
+  "active": "a9aa2e29c177cb26",
   "lastOpenFiles": [
-    "まだChatGPT（チャッピー）で投資してないの？〜バックテストで勝てる戦略を見つけよう編〜.md",
-    "愛すべきポンコツな君たちへ〜12億円稼いだエンジニアの戦略大公開〜.md",
-    "obsidian/project/flowork/infra/postgresqlにアクセス.md",
-    "obsidian/PostgreSQL上でDBを切り替える.md",
-    "obsidian/project/flowork/infra/ポスグレ内でデータベースに接続する.md",
-    "obsidian/project/flowork/infra/テーブル定義を確認する.md",
-    "obsidian/project/flowork/infra/テーブル一覧表示.md",
-    "obsidian/project/flowork/infra/Docker内のDB（ポスグレ）に入る.md",
-    "obsidian/project/flowork/infra/user_idの上限値を拡張する.md",
-    "【記事化】マイグレーション導入まとめ.md",
-    "obsidian/docker-composeを使ったdockerの起動と停止.md",
-    "obsidian/01_articles"
+    "obsidian/01_project/flowork/DB設定ファイルの置き場所.md",
+    "obsidian/00_inbox/AI に指示するのではなく、まずは AI に質問させた方が捗る.md",
+    "obsidian/04_templates",
+    "obsidian/03_daily",
+    "obsidian/project/無題のファイル.md",
+    "obsidian/01_project",
+    "obsidian/00_inbox/02_knowledge",
+    "obsidian/00_inbox/03_reading",
+    "obsidian/00_inbox/愛すべきポンコツな君たちへ〜12億円稼いだエンジニアの戦略大公開〜.md",
+    "obsidian/00_inbox/まだChatGPT（チャッピー）で投資してないの？〜バックテストで勝てる戦略を見つけよう編〜.md",
+    "obsidian/01_project/flowork/infra/postgresqlにアクセス.md",
+    "obsidian/00_inbox/PostgreSQL上でDBを切り替える.md",
+    "obsidian/01_project/flowork/infra/ポスグレ内でデータベースに接続する.md",
+    "obsidian/01_project/flowork/infra/テーブル定義を確認する.md",
+    "obsidian/01_project/flowork/infra/テーブル一覧表示.md",
+    "obsidian/01_project/flowork/infra/Docker内のDB（ポスグレ）に入る.md",
+    "obsidian/01_project/flowork/infra/user_idの上限値を拡張する.md",
+    "obsidian/00_inbox/【記事化】マイグレーション導入まとめ.md",
+    "obsidian/00_inbox/docker-composeを使ったdockerの起動と停止.md",
+    "obsidian/02_extra"
   ]
 }
