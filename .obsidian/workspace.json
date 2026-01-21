@@ -4,67 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "ea44c3705a8c22d7",
+        "id": "9de0b99de76396af",
         "type": "tabs",
         "children": [
           {
-            "id": "8af43ca2f8e5c844",
+            "id": "167e83fd4cf614e0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "obsidian/docker-composeを使ったdockerの起動と停止.md",
+                "file": "obsidian/01_project/webukatu/moc.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "docker-composeを使ったdockerの起動と停止"
-            }
-          },
-          {
-            "id": "771ee350633a0459",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "obsidian/project/flowork/infra/postgresqlにアクセス.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "postgresqlにアクセス"
-            }
-          },
-          {
-            "id": "e2ee60a244e13818",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "まだChatGPT（チャッピー）で投資してないの？〜バックテストで勝てる戦略を見つけよう編〜.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "まだChatGPT（チャッピー）で投資してないの？〜バックテストで勝てる戦略を見つけよう編〜"
-            }
-          },
-          {
-            "id": "1f5f28aea8fae9af",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "obsidian/00_inbox/docker-composeを使ったdockerの起動と停止.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "docker-composeを使ったdockerの起動と停止"
+              "title": "moc"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -228,9 +185,18 @@
   },
   "active": "a9aa2e29c177cb26",
   "lastOpenFiles": [
+    "obsidian/01_project/webukatu/webservice/moc.md",
+    "obsidian/01_project/webukatu/moc.md",
+    "obsidian/05_templates/moc.md",
+    "obsidian/01_project/webukatu/webservice",
+    "obsidian/01_project/webukatu",
+    "obsidian/02_knowledge",
+    "obsidian/03_daily/moc.md",
+    "obsidian/04_extra/moc.md",
+    "obsidian/00_inbox/docker-composeを使ったdockerの起動と停止.md",
     "obsidian/01_project/flowork/DB設定ファイルの置き場所.md",
     "obsidian/00_inbox/AI に指示するのではなく、まずは AI に質問させた方が捗る.md",
-    "obsidian/04_templates",
+    "obsidian/05_templates",
     "obsidian/03_daily",
     "obsidian/project/無題のファイル.md",
     "obsidian/01_project",
@@ -246,7 +212,6 @@
     "obsidian/01_project/flowork/infra/Docker内のDB（ポスグレ）に入る.md",
     "obsidian/01_project/flowork/infra/user_idの上限値を拡張する.md",
     "obsidian/00_inbox/【記事化】マイグレーション導入まとめ.md",
-    "obsidian/00_inbox/docker-composeを使ったdockerの起動と停止.md",
-    "obsidian/02_extra"
+    "obsidian/04_extra"
   ]
 }
