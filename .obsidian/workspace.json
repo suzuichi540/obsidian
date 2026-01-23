@@ -4,151 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "5ebf3ff9b8d99b1a",
+        "id": "4c2fe009e83b9cc9",
         "type": "tabs",
         "children": [
           {
-            "id": "0ac224aaabbdcb0e",
+            "id": "623e3f24cf778355",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "my-obsidian/02_project/flowork/04_infra/Docker内のDB（ポスグレ）に入る.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Docker内のDB（ポスグレ）に入る"
-            }
-          },
-          {
-            "id": "503627548cd2798d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "my-obsidian/02_project/flowork/04_infra/ステージング環境でpostgresになりすます.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "ステージング環境でpostgresになりすます"
-            }
-          },
-          {
-            "id": "c646205cc34a0fdf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "my-obsidian/02_project/flowork/04_infra/テーブル定義を確認する.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "テーブル定義を確認する"
-            }
-          },
-          {
-            "id": "0cdba8f979269656",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ステージング環境でFlywayを使ってマイグレーションを実行する.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "ステージング環境でFlywayを使ってマイグレーションを実行する"
-            }
-          },
-          {
-            "id": "9684fd0efdfb209f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "「人間がコードを書く時代は終わった」— Node.js創始者の宣言から考える、ソフトウェア開発の未来.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "「人間がコードを書く時代は終わった」— Node.js創始者の宣言から考える、ソフトウェア開発の未来"
-            }
-          },
-          {
-            "id": "e92a389345597837",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "my-obsidian/02_project/f_flowork/00_config/アプリケーションアクセス情報.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "アプリケーションアクセス情報"
-            }
-          },
-          {
-            "id": "7bbad0a57a94652c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "my-obsidian/02_project/f_flowork/03_infra/baseline 設定.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "baseline 設定"
-            }
-          },
-          {
-            "id": "047c1e41a9f42f55",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "my-obsidian/02_project/e_eustylelab/AWSアクセス情報.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "AWSアクセス情報"
-            }
-          },
-          {
-            "id": "17303230a7fc3064",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "my-obsidian/06_idea/★ideaファイルの目的.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "★ideaファイルの目的"
-            }
-          },
-          {
-            "id": "e5e7332e58e7b157",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "my-obsidian/02_project/f_flowork/03_infra/ローカルでDBを切り替える.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "ローカルでDBを切り替える"
+              "title": "新規タブ"
             }
           }
-        ],
-        "currentTab": 9
+        ]
       }
     ],
     "direction": "vertical"
@@ -312,16 +181,29 @@
   },
   "active": "a2b5478b7fd71095",
   "lastOpenFiles": [
+    "my-obsidian/02_project/s_software-div",
+    "my-obsidian/03_knowledge/a_AI/Gemini CLI使い始めたいけど「Failed to login. Message This account requires setting the GOOGLE_CLOUD_PROJECT env var.」が出て困っている人へ.md",
+    "my-obsidian/01_inbox/Gemini CLI の利用開始設定.md",
+    "my-obsidian/01_inbox/無題のファイル.canvas",
+    "my-obsidian/01_inbox/環境変数まとめ.md",
+    "my-obsidian/00_config/★configディレクトリの目的.md",
+    "my-obsidian/00_config/obsidian の運用について.md",
+    "my-obsidian/03_knowledge/a_AI/everything-claude-codeの設計思想 - 「考え方」をわかりやすく解説.md",
+    "my-obsidian/06_idea/★ideaファイルの目的.md",
+    "my-obsidian/02_project/e_eustylelab/AWSアクセス情報.md",
+    "my-obsidian/02_project/f_flowork/03_infra/baseline 設定.md",
+    "my-obsidian/02_project/f_flowork/00_config/アプリケーションアクセス情報.md",
+    "my-obsidian/05_extra/スクリーンショット 2026-01-21 22.05.53.png",
+    "my-obsidian/05_extra/スクリーンショット 2026-01-22 11.23.20.png",
+    "my-obsidian/02_project/f_flowork/03_infra/ローカルでDBを切り替える.md",
     "my-obsidian/08_output/b_business",
     "my-obsidian/02_project/f_flowork/【MOC】Flowork.md",
     "my-obsidian/08_output/★outputディレクトリの目的.md",
     "my-obsidian/07_templates/★templateファイルの目的.md",
-    "my-obsidian/06_idea/★ideaファイルの目的.md",
     "my-obsidian/05_extra/★Extraファイルの目的.md",
     "my-obsidian/04_daily/★dailyファイルの目的.md",
     "my-obsidian/02_project/★projectファイルの目的.md",
     "my-obsidian/01_inbox/★inboxの目的.md",
-    "my-obsidian/00_config/★configディレクトリの目的.md",
     "my-obsidian/03_knowledge/★knowledgeディレクトリの目的.md",
     "my-obsidian/03_knowledge/b_buissiness/愛すべきポンコツな君たちへ〜12億円稼いだエンジニアの戦略大公開〜.md",
     "my-obsidian/03_knowledge/l_law",
@@ -333,23 +215,11 @@
     "my-obsidian/01_inbox/Dockerからローカルにファイルをコピー.md",
     "my-obsidian/01_inbox/docker-composeを使ったdockerの起動と停止.md",
     "my-obsidian/03_knowledge/a_AI/AI に指示するのではなく、まずは AI に質問させた方が捗る.md",
-    "my-obsidian/03_knowledge/a_AI/「人間がコードを書く時代は終わった」— Node.js創始者の宣言から考える、ソフトウェア開発の未来.md",
-    "my-obsidian/01_inbox/津田さん式メモ整理術.md",
     "my-obsidian/08_output/t_tips",
     "my-obsidian/08_output/a_AI",
     "my-obsidian/08_output/i_infra",
     "my-obsidian/08_output/b_backend",
     "my-obsidian/08_output/f_frontend",
-    "my-obsidian/06_idea/作業開始前.md",
-    "my-obsidian/08_output",
-    "my-obsidian/00_config/obsidian の運用について.md",
-    "my-obsidian/04_daily/2026/2026-01/2026-01-23.md",
-    "my-obsidian/05_extra/スクリーンショット 2026-01-22 11.23.20.png",
-    "my-obsidian/05_extra/スクリーンショット 2026-01-21 22.05.53.png",
-    "my-obsidian/02_project/e_eustylelab/AWSアクセス情報.md",
-    "my-obsidian/02_project/f_flowork/00_config/DBアクセス情報.md",
-    "my-obsidian/02_project/f_flowork/00_config/アプリケーションアクセス情報.md",
-    "my-obsidian/07_templates/テーブル（md形式）.md",
     "無題のファイル.canvas"
   ]
 }
