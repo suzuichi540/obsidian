@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "my-obsidian/02_project/w_webukatu/PHP/ざっくりSession.md",
+                "file": "my-obsidian/08_output/d_develop/ざっくりDBとスキーマ.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ざっくりSession"
+              "title": "ざっくりDBとスキーマ"
             }
           }
         ]
@@ -183,15 +183,25 @@
       "bases:Create new base": false
     }
   },
-  "active": "623e3f24cf778355",
+  "active": "a2b5478b7fd71095",
   "lastOpenFiles": [
-    "my-obsidian/03_knowledge/d_develop/PHPにおけるセッションデータの取り除き方いろいろ.md",
-    "my-obsidian/02_project/w_webukatu/PHP/ざっくりSession.md",
+    "my-obsidian/03_knowledge/i_infra/PostgreSQL と MySQL の決定的な違い.md",
+    "my-obsidian/03_knowledge/b_backend/PHPにおけるセッションデータの取り除き方いろいろ.md",
+    "my-obsidian/03_knowledge/d_develop/【図解】Webの仕組み.md",
+    "my-obsidian/08_output/d_develop/ざっくりDBとスキーマ.md",
+    "my-obsidian/03_knowledge/i_infra",
+    "my-obsidian/03_knowledge/b_backend",
+    "my-obsidian/03_knowledge/f_frontend",
+    "my-obsidian/08_output/d_develop/ざっくりWebの仕組み.md",
+    "my-obsidian/08_output/d_develop/ざっくりCookie.md",
+    "my-obsidian/02_project/w_webukatu/PHP/データベースとスキーマ.md",
+    "my-obsidian/08_output/d_develop/ざっくりセキュリティ.md",
+    "my-obsidian/08_output/d_develop/ざっくりキャッシュ.md",
+    "my-obsidian/08_output/d_develop/ざっくりSession.md",
+    "my-obsidian/08_output/d_develop",
+    "my-obsidian/08_output/Untitled.md",
     "my-obsidian/03_knowledge/★knowledgeディレクトリの目的.md",
-    "my-obsidian/03_knowledge/d_develop/【初学者向け】セッションの概念と仕組みをCookie抜きで説明する.md",
-    "my-obsidian/02_project/w_webukatu/PHP/ざっくりセキュリティ.md",
-    "my-obsidian/02_project/w_webukatu/PHP/ざっくりキャッシュ.md",
-    "my-obsidian/02_project/w_webukatu/PHP/ざっくりCookie.md",
+    "my-obsidian/03_knowledge/i_infra/【初学者向け】セッションの概念と仕組みをCookie抜きで説明する.md",
     "my-obsidian/03_knowledge/d_develop/「実装する人」から「機能を開発する人へ」〜要件定義からリリースまで一貫してやることになって感じたこととか〜.md",
     "my-obsidian/03_knowledge/d_develop",
     "my-obsidian/02_project/w_webukatu/Cookieの使い方.md",
@@ -211,19 +221,9 @@
     "my-obsidian/02_project/f_flowork/00_config/アプリケーションアクセス情報.md",
     "my-obsidian/02_project/f_flowork/00_config/DBアクセス情報.md",
     "my-obsidian/02_project/f_flowork/03_infra/postgresqlにアクセス.md",
-    "my-obsidian/02_project/f_flowork/03_infra/Docker内のDB（ポスグレ）に入る.md",
-    "my-obsidian/02_project/f_flowork/03_infra/ポスグレ内でデータベースに接続する.md",
-    "my-obsidian/02_project/e_eustylelab/課題運用.md",
-    "my-obsidian/02_project/e_eustylelab/プルリクエスト.md",
-    "my-obsidian/02_project/e_eustylelab/コミットメッセージ.md",
-    "my-obsidian/02_project/e_eustylelab/コードレビュー.md",
-    "my-obsidian/02_project/s_software-div",
     "my-obsidian/01_inbox/無題のファイル.canvas",
     "my-obsidian/05_extra/スクリーンショット 2026-01-21 22.05.53.png",
     "my-obsidian/05_extra/スクリーンショット 2026-01-22 11.23.20.png",
-    "my-obsidian/08_output/b_business",
-    "my-obsidian/03_knowledge/l_law",
-    "my-obsidian/03_knowledge/i_infra",
     "無題のファイル.canvas"
   ]
 }
