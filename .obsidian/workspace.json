@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "my-obsidian/08_output/d_develop/ざっくりDBとスキーマ.md",
+                "file": "my-obsidian/02_project/w_webukatu/webservice/「ログイン情報を保存する」のチェック保持.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ざっくりDBとスキーマ"
+              "title": "「ログイン情報を保存する」のチェック保持"
             }
           }
         ]
@@ -183,12 +183,14 @@
       "bases:Create new base": false
     }
   },
-  "active": "a2b5478b7fd71095",
+  "active": "623e3f24cf778355",
   "lastOpenFiles": [
+    "my-obsidian/08_output/d_develop/ざっくりDBとスキーマ.md",
+    "my-obsidian/02_project/w_webukatu/webservice/「ログイン情報を保存する」のチェック保持.md",
+    "my-obsidian/02_project/w_webukatu/PHP/Untitled.md",
     "my-obsidian/03_knowledge/i_infra/PostgreSQL と MySQL の決定的な違い.md",
     "my-obsidian/03_knowledge/b_backend/PHPにおけるセッションデータの取り除き方いろいろ.md",
     "my-obsidian/03_knowledge/d_develop/【図解】Webの仕組み.md",
-    "my-obsidian/08_output/d_develop/ざっくりDBとスキーマ.md",
     "my-obsidian/03_knowledge/i_infra",
     "my-obsidian/03_knowledge/b_backend",
     "my-obsidian/03_knowledge/f_frontend",
@@ -219,8 +221,6 @@
     "my-obsidian/02_project/e_eustylelab/部会/2026-01-23 部会.md",
     "my-obsidian/02_project/e_eustylelab/部会",
     "my-obsidian/02_project/f_flowork/00_config/アプリケーションアクセス情報.md",
-    "my-obsidian/02_project/f_flowork/00_config/DBアクセス情報.md",
-    "my-obsidian/02_project/f_flowork/03_infra/postgresqlにアクセス.md",
     "my-obsidian/01_inbox/無題のファイル.canvas",
     "my-obsidian/05_extra/スクリーンショット 2026-01-21 22.05.53.png",
     "my-obsidian/05_extra/スクリーンショット 2026-01-22 11.23.20.png",
