@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "my-obsidian/02_project/f_flowork/03_infra/ALBでメンテナンス画面を設定する.md",
+                "file": "my-obsidian/02_project/f_flowork/04_tips/【記事化】マイグレーション導入まとめ.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ALBでメンテナンス画面を設定する"
+              "title": "【記事化】マイグレーション導入まとめ"
             }
           }
         ]
@@ -185,10 +185,12 @@
   },
   "active": "623e3f24cf778355",
   "lastOpenFiles": [
+    "my-obsidian/02_project/f_flowork/04_tips/代休申請の手順.md",
+    "my-obsidian/03_knowledge/b_backend/PHPファイル読み込み命令の違い.md",
+    "my-obsidian/02_project/f_flowork/03_infra/ALBでメンテナンス画面を設定する.md",
     "スクリーンショット 2026-01-28 12.53.58.png",
     "ec2_mente_3.png",
     "my-obsidian/05_extra/mente_ec2_2.png",
-    "my-obsidian/02_project/f_flowork/03_infra/ALBでメンテナンス画面を設定する.md",
     "ec2_mente.png",
     "my-obsidian/05_extra/スクリーンショット 2026-01-28 12.39.52.png",
     "my-obsidian/01_inbox/実装時に考えること.md",
@@ -220,7 +222,6 @@
     "my-obsidian/02_project/w_webukatu/webservice/ユーザー登録機能の実装.md",
     "my-obsidian/02_project/w_webukatu/webservice/ログイン機能の実装.md",
     "my-obsidian/02_project/w_webukatu/PHP",
-    "my-obsidian/03_knowledge/e_engineering/「実装する人」から「機能を開発する人へ」〜要件定義からリリースまで一貫してやることになって感じたこととか〜.md",
     "my-obsidian/08_output/r_reading/e_engineering",
     "my-obsidian/08_output/r_reading",
     "my-obsidian/03_knowledge/e_engineering",
