@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "my-obsidian/02_project/w_webukatu/webservice/「ログイン情報を保存する」のチェック保持.md",
+                "file": "my-obsidian/02_project/f_flowork/03_infra/ALBでメンテナンス画面を設定する.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "「ログイン情報を保存する」のチェック保持"
+              "title": "ALBでメンテナンス画面を設定する"
             }
           }
         ]
@@ -44,7 +44,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "ファイルエクスプローラ"
             }
           },
           {
@@ -174,19 +174,27 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
+      "switcher:クイックスイッチャーを開く": false,
+      "graph:グラフビューを開く": false,
+      "canvas:新規キャンバスを作成": false,
+      "daily-notes:今日のデイリーノートを開く": false,
+      "templates:テンプレートを挿入": false,
+      "command-palette:コマンドパレットを開く": false,
       "bases:Create new base": false
     }
   },
   "active": "623e3f24cf778355",
   "lastOpenFiles": [
-    "my-obsidian/08_output/d_develop/ざっくりDBとスキーマ.md",
+    "スクリーンショット 2026-01-28 12.53.58.png",
+    "ec2_mente_3.png",
+    "my-obsidian/05_extra/mente_ec2_2.png",
+    "my-obsidian/02_project/f_flowork/03_infra/ALBでメンテナンス画面を設定する.md",
+    "ec2_mente.png",
+    "my-obsidian/05_extra/スクリーンショット 2026-01-28 12.39.52.png",
+    "my-obsidian/01_inbox/実装時に考えること.md",
+    "my-obsidian/02_project/w_webukatu/PHP/データベースとスキーマ.md",
     "my-obsidian/02_project/w_webukatu/webservice/「ログイン情報を保存する」のチェック保持.md",
+    "my-obsidian/08_output/d_develop/ざっくりDBとスキーマ.md",
     "my-obsidian/02_project/w_webukatu/PHP/Untitled.md",
     "my-obsidian/03_knowledge/i_infra/PostgreSQL と MySQL の決定的な違い.md",
     "my-obsidian/03_knowledge/b_backend/PHPにおけるセッションデータの取り除き方いろいろ.md",
@@ -196,7 +204,6 @@
     "my-obsidian/03_knowledge/f_frontend",
     "my-obsidian/08_output/d_develop/ざっくりWebの仕組み.md",
     "my-obsidian/08_output/d_develop/ざっくりCookie.md",
-    "my-obsidian/02_project/w_webukatu/PHP/データベースとスキーマ.md",
     "my-obsidian/08_output/d_develop/ざっくりセキュリティ.md",
     "my-obsidian/08_output/d_develop/ざっくりキャッシュ.md",
     "my-obsidian/08_output/d_develop/ざっくりSession.md",
@@ -217,10 +224,7 @@
     "my-obsidian/08_output/r_reading/e_engineering",
     "my-obsidian/08_output/r_reading",
     "my-obsidian/03_knowledge/e_engineering",
-    "my-obsidian/02_project/w_webukatu/webservice/★moc.md",
-    "my-obsidian/02_project/e_eustylelab/部会/2026-01-23 部会.md",
     "my-obsidian/02_project/e_eustylelab/部会",
-    "my-obsidian/02_project/f_flowork/00_config/アプリケーションアクセス情報.md",
     "my-obsidian/01_inbox/無題のファイル.canvas",
     "my-obsidian/05_extra/スクリーンショット 2026-01-21 22.05.53.png",
     "my-obsidian/05_extra/スクリーンショット 2026-01-22 11.23.20.png",
